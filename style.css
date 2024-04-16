@@ -1,0 +1,173 @@
+.minha-div {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    margin-right: 10px;
+}
+
+.nav {
+    margin-left: auto;
+}
+
+.perfil {
+    width: 250px;
+    height: 250px;
+    margin-right: 10px;
+}
+
+.minha-div2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.minha-div3 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.minha-div4 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.minha-div5 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+}
+
+.titulo {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.nomes-titulos {
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.descricao {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.tamanho-icones {
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+
+.icone-container {
+    float: right;
+    position: relative;
+    display: inline-block;
+    
+}
+
+.numero {
+    position: absolute;
+    top: 50%;
+    left: calc(100% + 5px);
+    transform: translateY(-50%);
+}
+
+.icones-redes-sociais {
+    margin: 10px;
+    width: 35px;
+    height: 35px;
+}
+
+.card {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.card-body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.progress {
+    height: 100%;
+}
+
+.icons-repositorio {
+    margin-left: 17%;
+    width: 35px;
+    height: 35px;
+}
+
+#carouselExampleIndicators {
+    width: 90%;
+    left: 4%;
+}
+
+#carouselExampleIndicators img {
+    height: 700px;
+}
+
+.botao {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao:last-child {
+    margin-right: 0;
+}
+
+h5 {
+    color: rgb(63, 63, 236);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.colega-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+.colega-card img {
+    width: 50%;
+    height: 200px;
+    border-radius: 20%;
+    margin-bottom: 15px;
+}
+
+.colega-card h2 {
+    margin-bottom: 10px;
+}
+
+.colega-card p {
+    color: #777;
+}
