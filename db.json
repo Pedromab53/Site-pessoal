@@ -1,0 +1,97 @@
+{
+    "repositorios": [
+        {
+            "nome": "Site-pessoal",
+            "descricao": "Projeto pessoal para demonstrar habilidades",
+            "dataCriacao": "2024-06-24",
+            "linguagens": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/Pedromab53/Site-pessoal"
+        },
+        {
+            "nome": "aula-git-github",
+            "descricao": "Repositório para aula de Git e GitHub",
+            "dataCriacao": "2024-04-13",
+            "linguagens": ["HTML", "CSS", "JavaScript", "C#"],
+            "link": "https://github.com/Pedromab53/aula-git-github"
+        },
+        {
+            "nome": "Conversaodemoedas",
+            "descricao": "Aplicação para conversão de moedas",
+            "dataCriacao": "2024-06-25",
+            "linguagens": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/Pedromab53/Conversaodemoedas"
+        },
+        {
+            "nome": "Controle-estoque",
+            "descricao": "Sistema de controle de estoque",
+            "dataCriacao": "2024-06-26",
+            "linguagens": ["HTML", "CSS", "JavaScript", "Python"],
+            "link": "https://github.com/Pedromab53/Controle-estoque"
+        },
+        {
+            "nome": "CalculadoraBasica",
+            "descricao": "Calculadora básica em JavaScript",
+            "dataCriacao": "2024-06-27",
+            "linguagens": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/Pedromab53/CalculadoraBasica"
+        }
+    ],
+    "atividades": [
+        {
+            "tipo": "commit",
+            "descricao": "Atualização do README",
+            "data": "2024-06-01",
+            "repositorio": "aula-git-github"
+        },
+        {
+            "tipo": "issue",
+            "descricao": "Corrigir bug na página de login",
+            "data": "2024-06-05",
+            "repositorio": "Conversaodemoedas"
+        }
+    ],
+    "colegas": [
+        {
+            "id": 1,
+            "foto": "img/samuel.jpg",
+            "nome": "Samuel Porfirio",
+            "profissao": "Engenheiro Químico",
+            "perfilGitHub": "https://github.com/Samueloliveiradasilva"
+        },
+        {
+            "id": 2,
+            "foto": "img/PedroIvo.jpg",
+            "nome": "Pedro Ivo",
+            "profissao": "Biologia",
+            "perfilGitHub": "https://github.com/PedroIvo"
+        },
+        {
+            "id": 3,
+            "foto": "img/gustavo.jpg",
+            "nome": "Gustavo Meireles",
+            "profissao": "Engenheiro Mecânico",
+            "perfilGitHub": "https://github.com/GustavoMeireles"
+        },
+        {
+            "id": 4,
+            "foto": "img/thiago.jpg",
+            "nome": "Thiago Ribeiro",
+            "profissao": "Logística",
+            "perfilGitHub": "https://github.com/ThiagoRibeiroDias"
+        },
+        {
+            "id": 5,
+            "foto": "img/Marvyn.jpg",
+            "nome": "Marvyn Ribeiro",
+            "profissao": "Analista de Engenharia",
+            "perfilGitHub": "https://github.com/Marvyn103096"
+        },
+        {
+            "id": 6,
+            "foto": "img/Emiliano.jpg",
+            "nome": "Emiliano Lopes",
+            "profissao": "Administração",
+            "perfilGitHub": "https://github.com/EmilianoLopes"
+        }
+    ]
+}
